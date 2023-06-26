@@ -6,3 +6,8 @@ The pipeline contains the following steps:
  - Classical NLP Algorithms to filter through the vast data
  - Deep Learning based retreival
  - Communication through LLM Generation
+
+# Running the code
+
+The code is run through main.py
+The 'file' variable needs to be updated to reflect the data source
